@@ -2,7 +2,34 @@
 
 @media (max-width: 660px) {
 
-    .menuItemOutline{
+    .parfaitFreeWrap {
+        height: 100vh;
+    }
+
+    .parfaitFree {
+        top: 2%;
+    }
+
+    .EyeCatch {
+        position: absolute;
+        top: 30%;
+    }
+
+    .parfait {
+        top: 19%;
+    }
+
+    .cvButton {
+        margin-top: -40vh;
+    }
+
+    .parfaitDesc{
+        position: relative;
+        z-index: 3;
+    }
+
+
+    .menuItemOutline {
         display: flex;
         flex-direction: column;
     }

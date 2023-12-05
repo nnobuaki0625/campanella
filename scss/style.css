@@ -407,6 +407,9 @@ nav ul li {
   font-weight: 700;
   text-align: center;
   margin-top: 151px;
+  padding: 0 1rem;
+  position: relative;
+  z-index: 3;
 }
 
 .h2TextEdit {
@@ -414,6 +417,7 @@ nav ul li {
   font-weight: 700;
   text-align: center;
   margin-top: 31px;
+  padding: 0 1rem;
 }
 
 .subText {
@@ -422,6 +426,8 @@ nav ul li {
   text-align: center;
   margin-top: 0.25rem;
   margin-bottom: 100px;
+  position: relative;
+  z-index: 3;
 }
 
 .mainWrap {
