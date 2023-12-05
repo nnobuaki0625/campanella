@@ -410,6 +410,7 @@ nav ul li {
   padding: 0 1rem;
   position: relative;
   z-index: 3;
+  text-shadow: 4px 4px 3px rgba(255, 255, 255, 0.297);
 }
 
 .h2TextEdit {
@@ -428,6 +429,7 @@ nav ul li {
   margin-bottom: 100px;
   position: relative;
   z-index: 3;
+  text-shadow: 4px 4px 3px rgba(255, 255, 255, 0.297);
 }
 
 .mainWrap {
